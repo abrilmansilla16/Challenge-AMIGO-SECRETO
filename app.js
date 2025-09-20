@@ -51,7 +51,7 @@ function sortearAmigo() {
         alert("Lista vacía. Por favor ingrese nombres.");
         return;
     }
-    // MEJORA: Verificar que haya la cantidad necesaria de datos para que se pueda hacer el sorteo.
+    // MEJORA IMPLEMENTADA: Verificar que haya la cantidad necesaria de datos para que se pueda hacer el sorteo.
     if (amigos.length < 2) {
     alert('Se necesitan al menos 2 amigos para sortear.');
     return;
