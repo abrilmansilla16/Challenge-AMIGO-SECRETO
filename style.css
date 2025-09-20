@@ -70,7 +70,7 @@ body {
     text-align: center;
 }
 
-/* Contenedores de entrada y botón */
+// Contenedores de entrada y botón 
 .input-wrapper {
     display: flex;
     justify-content: center;
